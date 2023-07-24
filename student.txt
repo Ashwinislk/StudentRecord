@@ -1,2 +1,2 @@
-This is student project
+This is Employee management project
  studnet record
